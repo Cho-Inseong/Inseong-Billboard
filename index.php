@@ -17,6 +17,8 @@ switch ($resource[1]) {
     case 'signup':
         $page = "./pages/signup.php";
         break;
+    default :
+        $page = "./pages/404.php";
 }
 include($page);
 ?>
