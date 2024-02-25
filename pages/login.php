@@ -16,7 +16,10 @@
             <label for="password">Password</label>
             <input type="password" id="password" name="password" required>
 
-            <button type="submit">Login</button>
+            <button id="loginbutton" type="submit">Login</button>
+            <div id="signupbutton">
+                <a href="signup"><button id="signupdeco" type="button">signup</button></a>
+            </div>
         </form>
     </div>
 

@@ -54,6 +54,15 @@ body {
     width: 100%;
 }
 
+#signupbutton {
+    padding-top: 10px;
+    width: 100%;
+}
+
+#signupbutton a {
+    text-decoration-line: none;
+}
+
 .login-container button:hover {
     background: #eee;
 }
