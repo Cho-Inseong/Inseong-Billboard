@@ -24,6 +24,7 @@ header h1 {
 
 .login-signup a {
     color: #fff;
+    text-decoration-line: none;
     margin-right: 10px;
 }
 
