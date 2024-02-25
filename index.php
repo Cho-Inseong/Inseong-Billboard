@@ -11,6 +11,9 @@ switch ($resource[1]) {
     case '':
         $page = "./pages/main.php";
         break;
+    case 'login':
+        $page = "./pages/login.php";
+        break;
 }
 include($page);
 ?>

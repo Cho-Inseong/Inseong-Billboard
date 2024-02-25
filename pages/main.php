@@ -12,7 +12,7 @@
         <div class="header-content">
             <h1>Inseong Billboard</h1>
             <div class="login-signup">
-                <a href="login.html">Login</a>
+                <a href="login">Login</a>
                 <a href="signup.html">Sign Up</a>
             </div>
         </div>
