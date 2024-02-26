@@ -6,7 +6,7 @@
     <title>Sign Up Page</title>
     <link rel="stylesheet" href="../css/signup.css">
 </head>
-<body>
+<body class="signupbody">
     <div class="signup-container">
         <h2>Sign Up</h2>
         <form>

@@ -6,7 +6,7 @@
     <title>Login Page</title>
     <link rel="stylesheet" href="../css/login.css">
 </head>
-<body>
+<body class="loginbody">
     <div class="login-container">
         <h2>Login</h2>
         <form>
